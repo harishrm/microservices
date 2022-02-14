@@ -1,0 +1,5 @@
+package com.eduspring.microservices;
+
+public class Curr {
+
+}
